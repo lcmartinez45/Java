@@ -1,0 +1,29 @@
+run:
+Name:    Lillian Martinez
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Nine 
+
+Array integerArray contains: 
+1 2 3 4 5 
+
+Array doubleArray contains: 
+1.1 2.2 3.3 4.4 5.5 6.6 7.7 
+
+Array characterArray contains: 
+H E L L O 
+
+Array integerArray between 1-3: 
+2, 3, 4, 
+
+Array doubleArray between 1-4: 
+2.2, 3.3, 4.4, 5.5, 
+
+Array characterArray between 1-3: 
+E, L, L, 
+
+Array integerArray between 0-6: 
+Subscripts entered are invalid or out of range. Below is a stack trace list.
+InvalidSubscriptException
+	at GenericMethodTest.printArray(GenericMethodTest.java:85)
+	at GenericMethodTest.main(GenericMethodTest.java:62)
+BUILD SUCCESSFUL (total time: 2 seconds)

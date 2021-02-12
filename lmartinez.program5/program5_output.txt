@@ -1,0 +1,60 @@
+Name:    Lillian Martinez
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Five 
+
+Sorted Invoice objects by Part Description:
+
+Part #: 83  Description: Electric sander  Quantity: 7     Price: $ 57.98
+Part #: 77  Description: Hammer           Quantity: 76    Price: $ 11.99
+Part #: 56  Description: Jig saw          Quantity: 21    Price: $ 11.00
+Part #: 39  Description: Lawm mower       Quantity: 3     Price: $ 79.50
+Part #: 24  Description: Power saw        Quantity: 18    Price: $ 99.99
+Part #: 68  Description: Screwdriver      Quantity: 106   Price: $  6.99
+Part #: 7   Description: Sledge hammer    Quantity: 11    Price: $ 21.50
+Part #: 3   Description: Wrench           Quantity: 34    Price: $  7.50
+
+Sorted Invoice objects by Price Per Item:
+
+Part #: 68  Description: Screwdriver      Quantity: 106   Price: $  6.99
+Part #: 3   Description: Wrench           Quantity: 34    Price: $  7.50
+Part #: 56  Description: Jig saw          Quantity: 21    Price: $ 11.00
+Part #: 77  Description: Hammer           Quantity: 76    Price: $ 11.99
+Part #: 7   Description: Sledge hammer    Quantity: 11    Price: $ 21.50
+Part #: 83  Description: Electric sander  Quantity: 7     Price: $ 57.98
+Part #: 39  Description: Lawm mower       Quantity: 3     Price: $ 79.50
+Part #: 24  Description: Power saw        Quantity: 18    Price: $ 99.99
+
+Mapped Invoice objects to it's Part Description and Quantity, then sorted:
+
+Description: Lawm mower      Quantity: 3   
+Description: Electric sander Quantity: 7   
+Description: Sledge hammer   Quantity: 11  
+Description: Power saw       Quantity: 18  
+Description: Jig saw         Quantity: 21  
+Description: Wrench          Quantity: 34  
+Description: Hammer          Quantity: 76  
+Description: Screwdriver     Quantity: 106 
+
+Mapped Invoice objects to it's Part Description and value of Invoice, sorted Invoice:
+
+Description: Jig saw - Invoice Value: $231.0
+Description: Sledge hammer - Invoice Value: $236.5
+Description: Lawm mower - Invoice Value: $238.5
+Description: Wrench - Invoice Value: $255.0
+Description: Electric sander - Invoice Value: $405.85999999999996
+Description: Screwdriver - Invoice Value: $740.94
+Description: Hammer - Invoice Value: $911.24
+Description: Power saw - Invoice Value: $1799.82
+
+Invoice values in range $200.00 to $500.00:
+
+Description: Jig saw - Invoice Value: $231.0
+Description: Sledge hammer - Invoice Value: $236.5
+Description: Lawm mower - Invoice Value: $238.5
+Description: Wrench - Invoice Value: $255.0
+Description: Electric sander - Invoice Value: $405.85999999999996
+
+Find in Invoices in which the part description contains "saw":
+
+Part #: 24  Description: Power saw        Quantity: 18    Price: $ 99.99
+Part #: 56  Description: Jig saw          Quantity: 21    Price: $ 11.00

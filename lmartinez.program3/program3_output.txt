@@ -1,0 +1,15 @@
+Enter a year between 1903 and 2019: 1903
+Boston Americans won the World Series in: 1903
+Total number of times Boston Americans won the World Series is: 1
+Enter a year between 1903 and 2019: 1924
+Washington Senators won the World Series in: 1924
+Total number of times Washington Senators won the World Series is: 1
+Enter a year between 1903 and 2019: 1994
+No team won the World Series in: 1994
+Enter a year between 1903 and 2019: 2009
+New York Yankees won the World Series in: 2009
+Total number of times New York Yankees won the World Series is: 27
+Enter a year between 1903 and 2019: 2019
+Washington Nationals won the World Series in: 2019
+Total number of times Washington Nationals won the World Series is: 1
+ 

@@ -1,0 +1,43 @@
+Name:    Fred Kumi
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Two
+
+
+Shape:	   Package2.Circle
+Dimension: Two-Dimensional
+Area:	   103.87
+
+=============================
+
+Shape:	   Package2.Square
+Dimension: Two-Dimensional
+Area:	   6.25
+
+=============================
+
+Shape:	   Package2.Triangle
+Dimension: Two-Dimensional
+Area:	   41.06
+
+=============================
+
+Shape:	   Package2.Sphere
+Dimension: Three-Dimensional
+Area:	   415.48
+Volume:	   796.33
+
+=============================
+
+Shape:	   Package2.Cube
+Dimension: Three-Dimensional
+Area:	   37.50
+Volume:	   15.63
+
+=============================
+
+Shape:	   Package2.Tetrahedron
+Dimension: Three-Dimensional
+Area:	   10.83
+Volume:	   1.84
+
+=============================

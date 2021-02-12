@@ -1,0 +1,16 @@
+Enter string: Hi there, I am taking Java Programming (Intermediate).
+a 6
+d 1
+e 5
+g 3
+h 2
+i 6
+j 1
+k 1
+m 4
+n 3
+o 1
+p 1
+r 4
+t 4
+v 1

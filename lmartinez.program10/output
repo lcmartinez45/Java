@@ -1,0 +1,18 @@
+run:
+Name:    Lillian Martinez
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Ten 
+
+Tasks running, please wait...
+
+Tasks Completed
+
+Array #1 is sychronized multithreading implementation of an integer array.
+Sum of Array #1: 157474410
+Array #1 took 9316 milliseconds to run.
+
+Array #2 is a simple single thread integer array.
+Sum of Array #2: 157502427
+Array #2 took 5493 milliseconds to run.
+
+BUILD SUCCESSFUL (total time: 15 seconds)

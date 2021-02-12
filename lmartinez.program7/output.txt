@@ -1,0 +1,167 @@
+Name:    Lillian Martinez
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Seven 
+
+Fibonacci of 0 is: 0
+Milliseconds required to perform calculation: 12
+Number of calls made to fibonacci method: 1
+
+Fibonacci of 1 is: 1
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 2
+
+Fibonacci of 2 is: 1
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 5
+
+Fibonacci of 3 is: 2
+Milliseconds required to perform calculation: 0
+Number of calls made to fibonacci method: 10
+
+Fibonacci of 4 is: 3
+Milliseconds required to perform calculation: 0
+Number of calls made to fibonacci method: 19
+
+Fibonacci of 5 is: 5
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 34
+
+Fibonacci of 6 is: 8
+Milliseconds required to perform calculation: 2
+Number of calls made to fibonacci method: 59
+
+Fibonacci of 7 is: 13
+Milliseconds required to perform calculation: 3
+Number of calls made to fibonacci method: 100
+
+Fibonacci of 8 is: 21
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 167
+
+Fibonacci of 9 is: 34
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 276
+
+Fibonacci of 10 is: 55
+Milliseconds required to perform calculation: 2
+Number of calls made to fibonacci method: 453
+
+Fibonacci of 11 is: 89
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 740
+
+Fibonacci of 12 is: 144
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 1205
+
+Fibonacci of 13 is: 233
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 1958
+
+Fibonacci of 14 is: 377
+Milliseconds required to perform calculation: 2
+Number of calls made to fibonacci method: 3177
+
+Fibonacci of 15 is: 610
+Milliseconds required to perform calculation: 1
+Number of calls made to fibonacci method: 5150
+
+Fibonacci of 16 is: 987
+Milliseconds required to perform calculation: 3
+Number of calls made to fibonacci method: 8343
+
+Fibonacci of 17 is: 1597
+Milliseconds required to perform calculation: 12
+Number of calls made to fibonacci method: 13510
+
+Fibonacci of 18 is: 2584
+Milliseconds required to perform calculation: 4
+Number of calls made to fibonacci method: 21871
+
+Fibonacci of 19 is: 4181
+Milliseconds required to perform calculation: 3
+Number of calls made to fibonacci method: 35400
+
+Fibonacci of 20 is: 6765
+Milliseconds required to perform calculation: 3
+Number of calls made to fibonacci method: 57291
+
+Fibonacci of 21 is: 10946
+Milliseconds required to perform calculation: 22
+Number of calls made to fibonacci method: 92712
+
+Fibonacci of 22 is: 17711
+Milliseconds required to perform calculation: 17
+Number of calls made to fibonacci method: 150025
+
+Fibonacci of 23 is: 28657
+Milliseconds required to perform calculation: 15
+Number of calls made to fibonacci method: 242760
+
+Fibonacci of 24 is: 46368
+Milliseconds required to perform calculation: 28
+Number of calls made to fibonacci method: 392809
+
+Fibonacci of 25 is: 75025
+Milliseconds required to perform calculation: 33
+Number of calls made to fibonacci method: 635594
+
+Fibonacci of 26 is: 121393
+Milliseconds required to perform calculation: 46
+Number of calls made to fibonacci method: 1028429
+
+Fibonacci of 27 is: 196418
+Milliseconds required to perform calculation: 36
+Number of calls made to fibonacci method: 1664050
+
+Fibonacci of 28 is: 317811
+Milliseconds required to perform calculation: 68
+Number of calls made to fibonacci method: 2692507
+
+Fibonacci of 29 is: 514229
+Milliseconds required to perform calculation: 308
+Number of calls made to fibonacci method: 4356586
+
+Fibonacci of 30 is: 832040
+Milliseconds required to perform calculation: 383
+Number of calls made to fibonacci method: 7049123
+
+Fibonacci of 31 is: 1346269
+Milliseconds required to perform calculation: 373
+Number of calls made to fibonacci method: 11405740
+
+Fibonacci of 32 is: 2178309
+Milliseconds required to perform calculation: 896
+Number of calls made to fibonacci method: 18454895
+
+Fibonacci of 33 is: 3524578
+Milliseconds required to perform calculation: 865
+Number of calls made to fibonacci method: 29860668
+
+Fibonacci of 34 is: 5702887
+Milliseconds required to perform calculation: 1543
+Number of calls made to fibonacci method: 48315597
+
+Fibonacci of 35 is: 9227465
+Milliseconds required to perform calculation: 1507
+Number of calls made to fibonacci method: 78176300
+
+Fibonacci of 36 is: 14930352
+Milliseconds required to perform calculation: 2454
+Number of calls made to fibonacci method: 126491933
+
+Fibonacci of 37 is: 24157817
+Milliseconds required to perform calculation: 4240
+Number of calls made to fibonacci method: 204668270
+
+Fibonacci of 38 is: 39088169
+Milliseconds required to perform calculation: 7032
+Number of calls made to fibonacci method: 331160241
+
+Fibonacci of 39 is: 63245986
+Milliseconds required to perform calculation: 11304
+Number of calls made to fibonacci method: 535828550
+
+Fibonacci of 40 is: 102334155
+Milliseconds required to perform calculation: 18390
+Number of calls made to fibonacci method: 866988831

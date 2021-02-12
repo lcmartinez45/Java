@@ -1,0 +1,29 @@
+run:
+Name:    Lillian Martinez
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Eight 
+
+[42, 99, 86, 49, 66, 38, 25, 38, 28, 98, 34, 80, 88, 84, 21, 25, 97, 57, 35, 70, 46, 53, 55, 42, 97, 60, 99, 45, 24, 14, 58, 26, 28, 80, 42, 22, 22, 52, 21, 78, 38, 63, 82, 65, 93, 68, 94, 100, 13, 45]
+Enter an integer value (-1 to quite):  
+0
+0 was not found.
+
+Enter an integer value (-1 to quite):  
+100
+100 was found in position: 47
+
+Enter an integer value (-1 to quite):  
+38
+38 was found in position: 5
+
+Enter an integer value (-1 to quite):  
+66
+66 was found in position: 4
+
+Enter an integer value (-1 to quite):  
+97
+97 was found in position: 16
+
+Enter an integer value (-1 to quite):  
+-1
+BUILD SUCCESSFUL (total time: 32 seconds)
