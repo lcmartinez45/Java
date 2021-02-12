@@ -1,0 +1,73 @@
+run:
+Enter First Name (type "no" to stop): 
+John
+Enter Last Name: 
+Doe
+Enter Pay Rate: 
+35.10
+Enter working hours for 4 weeks : 
+40
+30
+40
+35
+Enter First Name (type "no" to stop): 
+Jane
+Enter Last Name: 
+Doe
+Enter Pay Rate: 
+37.20
+Enter working hours for 4 weeks : 
+40
+40
+40
+40
+Enter First Name (type "no" to stop): 
+Lilly
+Enter Last Name: 
+Martinez
+Enter Pay Rate: 
+65.50
+Enter working hours for 4 weeks : 
+50
+35
+40
+55
+Enter First Name (type "no" to stop): 
+no
+
+
+Employee: John Doe
+Pay rate: 35.10
+Total hours worked: 145.00
+Total Regular Hours:  145.00 
+Total Overtime hours:  0.00 
+Monthly Regular Pay:  5,089.50 
+Monthly Overtime Pay:  0.00 
+Monthly Gross Pay:  5,089.50 
+Monthly Taxes Pay:  1,425.06 
+Monthly Net Pay:  3,664.44
+
+
+Employee: Jane Doe
+Pay rate: 37.20
+Total hours worked: 160.00
+Total Regular Hours:  160.00 
+Total Overtime hours:  0.00 
+Monthly Regular Pay:  5,952.00 
+Monthly Overtime Pay:  0.00 
+Monthly Gross Pay:  5,952.00 
+Monthly Taxes Pay:  1,666.56 
+Monthly Net Pay:  4,285.44
+
+
+Employee: Lilly Martinez
+Pay rate: 65.50
+Total hours worked: 180.00
+Total Regular Hours:  100.00 
+Total Overtime hours:  25.00 
+Monthly Regular Pay:  6,550.00 
+Monthly Overtime Pay:  2,456.25 
+Monthly Gross Pay:  9,006.25 
+Monthly Taxes Pay:  2,791.94 
+Monthly Net Pay:  6,214.31
+BUILD SUCCESSFUL (total time: 1 minute 1 second)
