@@ -1,0 +1,8 @@
+run:
+Enter number of packages purchased: 5
+Number of units purchased is: 5
+Discount applied is: % 0
+Total savings due to discount is: $0.00
+Your total is: $495.00
+ 
+BUILD SUCCESSFUL (total time: 3 seconds)

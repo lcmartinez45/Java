@@ -1,0 +1,20 @@
+run:
+Enter Employee ID number: 
+2002
+Enter Hourly Rate of Pay: 
+35.50
+Enter Number of Hours Worked for the Week: 
+40
+
+Program 4
+ID Number: 2002
+Pay Rate: 35.5
+Regular Hours: 40.0
+Overtime Hours: 0.0
+Total Hours: 40.0
+Regular Pay: 1420.0
+Overtime Pay: 0.0
+Gross Pay: 1600.0
+Deductions: 193.0
+Net Pay: 1407.0
+BUILD SUCCESSFUL (total time: 8 seconds)

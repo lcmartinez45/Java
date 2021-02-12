@@ -1,0 +1,20 @@
+run:
+Enter Employee ID number: 
+1001
+Enter Hourly Rate of Pay: 
+10.00
+Enter Number of Hours Worked for the Week: 
+35
+
+Program 4
+ID Number: 1001
+Pay Rate: 10.0
+Regular Hours: 35.0
+Overtime Hours: 0.0
+Total Hours: 35.0
+Regular Pay: 350.0
+Overtime Pay: 0.0
+Gross Pay: 1225.0
+Deductions: 153.625
+Net Pay: 1071.375
+BUILD SUCCESSFUL (total time: 9 seconds)

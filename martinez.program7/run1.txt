@@ -1,0 +1,19 @@
+run:
+How much is 1 times 2? 1
+No. Please try again!
+How much is 2 times 5? 5
+No. Keep trying!
+10
+Excellent!
+How much is 5 times 9? 45
+Very good!
+How much is 8 times 6? 42
+Wrong, Try once more!
+48
+Very good!
+How much is 6 times 7? 42
+Excellent!
+How much is 3 times 8? 24
+Very good!
+Want to exit (Y/N) : y
+BUILD SUCCESSFUL (total time: 45 seconds)

@@ -1,0 +1,27 @@
+run:
+Choose Your preference: Type '1' for First Class or '2' for Economy Class:
+1
+First Class seat booking: Seat #1
+Do you want to book another seat? (y/n): y
+Choose Your preference: Type '1' for First Class or '2' for Economy Class:
+1
+First Class seat booking: Seat #2
+Do you want to book another seat? (y/n): y
+Choose Your preference: Type '1' for First Class or '2' for Economy Class:
+1
+First Class seat booking: Seat #3
+Do you want to book another seat? (y/n): y
+Choose Your preference: Type '1' for First Class or '2' for Economy Class:
+1
+First Class seat booking: Seat #4
+Do you want to book another seat? (y/n): y
+Choose Your preference: Type '1' for First Class or '2' for Economy Class:
+1
+First Class seat booking: Seat #5
+Do you want to book another seat? (y/n): y
+Choose Your preference: Type '1' for First Class or '2' for Economy Class:
+1
+Sorry, First Class bookings are over. Would you like to opt for Economy class? Select '1' for Yes and '2' for No.
+1
+Economy Class seat booking : Seat #6
+Choose Your preference: Type '1' for First Class or '2' for Economy Class:

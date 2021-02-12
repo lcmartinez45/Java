@@ -1,0 +1,20 @@
+run:
+Enter Employee ID number: 
+3003
+Enter Hourly Rate of Pay: 
+10.50
+Enter Number of Hours Worked for the Week: 
+50
+
+Program 4
+ID Number: 3003
+Pay Rate: 10.5
+Regular Hours: 50.0
+Overtime Hours: 10.0
+Total Hours: 60.0
+Regular Pay: 525.0
+Overtime Pay: 157.5
+Gross Pay: 3000.0
+Deductions: 340.0
+Net Pay: 2660.0
+BUILD SUCCESSFUL (total time: 8 seconds)
